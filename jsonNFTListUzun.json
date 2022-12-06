@@ -1,0 +1,621 @@
+{
+    "urunler": [
+        {
+            "id": 01,
+            "isim": "Mutant Ape Yacht Club #2056",
+            "kategori": "art",
+            "fiyat": "0.00",
+            "resim": "https://public.nftstatic.com/static/nft/res/nft-cex/S3/1668348884123_3ga38gu7agz7sbj0hc8cw9ymdwx8mw3w.png"
+        },
+        {
+            "id": 02,
+            "isim": "Mutant Ape Yacht Club #2057",
+            "kategori": "art",
+            "fiyat": "0.00",
+            "resim": "https://public.nftstatic.com/static/nft/res/nft-cex/S3/1668480985642_3hchfohqly5g7f6ovcif57zs1htmv5s3.png"
+        },
+        {
+            "id": 03,
+            "isim": "Mutant Ape Yacht Club #2058",
+            "kategori": "art",
+            "fiyat": "0.00",
+            "resim": "https://public.nftstatic.com/static/nft/res/nft-cex/S3/1668234211263_jbr0tts166f5drtz91c98cm7xnh3cb5w.png"
+        },
+        {
+            "id": 04,
+            "isim": "Mutant Ape Yacht Club #2059",
+            "kategori": "art",
+            "fiyat": "0.00",
+            "resim": "https://public.nftstatic.com/static/nft/res/nft-cex/S3/1668518694544_bd44zr9w8227yshbepecaqa8mrvhst42.png"
+        },
+        {
+            "id": 05,
+            "isim": "Mutant Ape Yacht Club #2060",
+            "kategori": "art",
+            "fiyat": "0.00",
+            "resim": "https://public.nftstatic.com/static/nft/res/nft-cex/S3/1668522406992_o7qoqf57r2c72tdwpcc3940ubdpugllg.png"
+        },
+        {
+            "id": 06,
+            "isim": "Mutant Ape Yacht Club #2061",
+            "kategori": "art",
+            "fiyat": "0.00",
+            "resim": "https://public.nftstatic.com/static/nft/res/nft-cex/S3/1668481038590_h9086vcu5qh6ol3fudwvh2t0mqcozjk7.png"
+        },
+        {
+            "id": 07,
+            "isim": "Mutant Ape Yacht Club #2032",
+            "kategori": "art",
+            "fiyat": "0.00",
+            "resim": "https://public.nftstatic.com/static/nft/res/nft-cex/S3/1668211484363_j9d62tnm0raawvv7ail0ywsagf79tehv.png"
+        },
+        {
+            "id": 08,
+            "isim": "Mutant Ape Yacht Club #2086",
+            "kategori": "art",
+            "fiyat": "0.00",
+            "resim": "https://public.nftstatic.com/static/nft/res/nft-cex/S3/1668432388902_hab504xd3i60j9p9ozmwkiowq2ca03te.png"
+        },
+      {
+            "id": 01,
+            "isim": "Mutant Ape Yacht Club #2056",
+            "kategori": "art",
+            "fiyat": "0.00",
+            "resim": "https://public.nftstatic.com/static/nft/res/nft-cex/S3/1668348884123_3ga38gu7agz7sbj0hc8cw9ymdwx8mw3w.png"
+        },
+        {
+            "id": 02,
+            "isim": "Mutant Ape Yacht Club #2057",
+            "kategori": "art",
+            "fiyat": "0.00",
+            "resim": "https://public.nftstatic.com/static/nft/res/nft-cex/S3/1668480985642_3hchfohqly5g7f6ovcif57zs1htmv5s3.png"
+        },
+        {
+            "id": 03,
+            "isim": "Mutant Ape Yacht Club #2058",
+            "kategori": "art",
+            "fiyat": "0.00",
+            "resim": "https://public.nftstatic.com/static/nft/res/nft-cex/S3/1668234211263_jbr0tts166f5drtz91c98cm7xnh3cb5w.png"
+        },
+        {
+            "id": 04,
+            "isim": "Mutant Ape Yacht Club #2059",
+            "kategori": "art",
+            "fiyat": "0.00",
+            "resim": "https://public.nftstatic.com/static/nft/res/nft-cex/S3/1668518694544_bd44zr9w8227yshbepecaqa8mrvhst42.png"
+        },
+        {
+            "id": 05,
+            "isim": "Mutant Ape Yacht Club #2060",
+            "kategori": "art",
+            "fiyat": "0.00",
+            "resim": "https://public.nftstatic.com/static/nft/res/nft-cex/S3/1668522406992_o7qoqf57r2c72tdwpcc3940ubdpugllg.png"
+        },
+        {
+            "id": 06,
+            "isim": "Mutant Ape Yacht Club #2061",
+            "kategori": "art",
+            "fiyat": "0.00",
+            "resim": "https://public.nftstatic.com/static/nft/res/nft-cex/S3/1668481038590_h9086vcu5qh6ol3fudwvh2t0mqcozjk7.png"
+        },
+        {
+            "id": 07,
+            "isim": "Mutant Ape Yacht Club #2032",
+            "kategori": "art",
+            "fiyat": "0.00",
+            "resim": "https://public.nftstatic.com/static/nft/res/nft-cex/S3/1668211484363_j9d62tnm0raawvv7ail0ywsagf79tehv.png"
+        },
+        {
+            "id": 08,
+            "isim": "Mutant Ape Yacht Club #2086",
+            "kategori": "art",
+            "fiyat": "0.00",
+            "resim": "https://public.nftstatic.com/static/nft/res/nft-cex/S3/1668432388902_hab504xd3i60j9p9ozmwkiowq2ca03te.png"
+        },
+      {
+            "id": 01,
+            "isim": "Mutant Ape Yacht Club #2056",
+            "kategori": "art",
+            "fiyat": "0.00",
+            "resim": "https://public.nftstatic.com/static/nft/res/nft-cex/S3/1668348884123_3ga38gu7agz7sbj0hc8cw9ymdwx8mw3w.png"
+        },
+        {
+            "id": 02,
+            "isim": "Mutant Ape Yacht Club #2057",
+            "kategori": "art",
+            "fiyat": "0.00",
+            "resim": "https://public.nftstatic.com/static/nft/res/nft-cex/S3/1668480985642_3hchfohqly5g7f6ovcif57zs1htmv5s3.png"
+        },
+        {
+            "id": 03,
+            "isim": "Mutant Ape Yacht Club #2058",
+            "kategori": "art",
+            "fiyat": "0.00",
+            "resim": "https://public.nftstatic.com/static/nft/res/nft-cex/S3/1668234211263_jbr0tts166f5drtz91c98cm7xnh3cb5w.png"
+        },
+        {
+            "id": 04,
+            "isim": "Mutant Ape Yacht Club #2059",
+            "kategori": "art",
+            "fiyat": "0.00",
+            "resim": "https://public.nftstatic.com/static/nft/res/nft-cex/S3/1668518694544_bd44zr9w8227yshbepecaqa8mrvhst42.png"
+        },
+        {
+            "id": 05,
+            "isim": "Mutant Ape Yacht Club #2060",
+            "kategori": "art",
+            "fiyat": "0.00",
+            "resim": "https://public.nftstatic.com/static/nft/res/nft-cex/S3/1668522406992_o7qoqf57r2c72tdwpcc3940ubdpugllg.png"
+        },
+        {
+            "id": 06,
+            "isim": "Mutant Ape Yacht Club #2061",
+            "kategori": "art",
+            "fiyat": "0.00",
+            "resim": "https://public.nftstatic.com/static/nft/res/nft-cex/S3/1668481038590_h9086vcu5qh6ol3fudwvh2t0mqcozjk7.png"
+        },
+        {
+            "id": 07,
+            "isim": "Mutant Ape Yacht Club #2032",
+            "kategori": "art",
+            "fiyat": "0.00",
+            "resim": "https://public.nftstatic.com/static/nft/res/nft-cex/S3/1668211484363_j9d62tnm0raawvv7ail0ywsagf79tehv.png"
+        },
+        {
+            "id": 08,
+            "isim": "Mutant Ape Yacht Club #2086",
+            "kategori": "art",
+            "fiyat": "0.00",
+            "resim": "https://public.nftstatic.com/static/nft/res/nft-cex/S3/1668432388902_hab504xd3i60j9p9ozmwkiowq2ca03te.png"
+        },
+      {
+            "id": 01,
+            "isim": "Mutant Ape Yacht Club #2056",
+            "kategori": "art",
+            "fiyat": "0.00",
+            "resim": "https://public.nftstatic.com/static/nft/res/nft-cex/S3/1668348884123_3ga38gu7agz7sbj0hc8cw9ymdwx8mw3w.png"
+        },
+        {
+            "id": 02,
+            "isim": "Mutant Ape Yacht Club #2057",
+            "kategori": "art",
+            "fiyat": "0.00",
+            "resim": "https://public.nftstatic.com/static/nft/res/nft-cex/S3/1668480985642_3hchfohqly5g7f6ovcif57zs1htmv5s3.png"
+        },
+        {
+            "id": 03,
+            "isim": "Mutant Ape Yacht Club #2058",
+            "kategori": "art",
+            "fiyat": "0.00",
+            "resim": "https://public.nftstatic.com/static/nft/res/nft-cex/S3/1668234211263_jbr0tts166f5drtz91c98cm7xnh3cb5w.png"
+        },
+        {
+            "id": 04,
+            "isim": "Mutant Ape Yacht Club #2059",
+            "kategori": "art",
+            "fiyat": "0.00",
+            "resim": "https://public.nftstatic.com/static/nft/res/nft-cex/S3/1668518694544_bd44zr9w8227yshbepecaqa8mrvhst42.png"
+        },
+        {
+            "id": 05,
+            "isim": "Mutant Ape Yacht Club #2060",
+            "kategori": "art",
+            "fiyat": "0.00",
+            "resim": "https://public.nftstatic.com/static/nft/res/nft-cex/S3/1668522406992_o7qoqf57r2c72tdwpcc3940ubdpugllg.png"
+        },
+        {
+            "id": 06,
+            "isim": "Mutant Ape Yacht Club #2061",
+            "kategori": "art",
+            "fiyat": "0.00",
+            "resim": "https://public.nftstatic.com/static/nft/res/nft-cex/S3/1668481038590_h9086vcu5qh6ol3fudwvh2t0mqcozjk7.png"
+        },
+        {
+            "id": 07,
+            "isim": "Mutant Ape Yacht Club #2032",
+            "kategori": "art",
+            "fiyat": "0.00",
+            "resim": "https://public.nftstatic.com/static/nft/res/nft-cex/S3/1668211484363_j9d62tnm0raawvv7ail0ywsagf79tehv.png"
+        },
+        {
+            "id": 08,
+            "isim": "Mutant Ape Yacht Club #2086",
+            "kategori": "art",
+            "fiyat": "0.00",
+            "resim": "https://public.nftstatic.com/static/nft/res/nft-cex/S3/1668432388902_hab504xd3i60j9p9ozmwkiowq2ca03te.png"
+        },
+      {
+            "id": 01,
+            "isim": "Mutant Ape Yacht Club #2056",
+            "kategori": "art",
+            "fiyat": "0.00",
+            "resim": "https://public.nftstatic.com/static/nft/res/nft-cex/S3/1668348884123_3ga38gu7agz7sbj0hc8cw9ymdwx8mw3w.png"
+        },
+        {
+            "id": 02,
+            "isim": "Mutant Ape Yacht Club #2057",
+            "kategori": "art",
+            "fiyat": "0.00",
+            "resim": "https://public.nftstatic.com/static/nft/res/nft-cex/S3/1668480985642_3hchfohqly5g7f6ovcif57zs1htmv5s3.png"
+        },
+        {
+            "id": 03,
+            "isim": "Mutant Ape Yacht Club #2058",
+            "kategori": "art",
+            "fiyat": "0.00",
+            "resim": "https://public.nftstatic.com/static/nft/res/nft-cex/S3/1668234211263_jbr0tts166f5drtz91c98cm7xnh3cb5w.png"
+        },
+        {
+            "id": 04,
+            "isim": "Mutant Ape Yacht Club #2059",
+            "kategori": "art",
+            "fiyat": "0.00",
+            "resim": "https://public.nftstatic.com/static/nft/res/nft-cex/S3/1668518694544_bd44zr9w8227yshbepecaqa8mrvhst42.png"
+        },
+        {
+            "id": 05,
+            "isim": "Mutant Ape Yacht Club #2060",
+            "kategori": "art",
+            "fiyat": "0.00",
+            "resim": "https://public.nftstatic.com/static/nft/res/nft-cex/S3/1668522406992_o7qoqf57r2c72tdwpcc3940ubdpugllg.png"
+        },
+        {
+            "id": 06,
+            "isim": "Mutant Ape Yacht Club #2061",
+            "kategori": "art",
+            "fiyat": "0.00",
+            "resim": "https://public.nftstatic.com/static/nft/res/nft-cex/S3/1668481038590_h9086vcu5qh6ol3fudwvh2t0mqcozjk7.png"
+        },
+        {
+            "id": 07,
+            "isim": "Mutant Ape Yacht Club #2032",
+            "kategori": "art",
+            "fiyat": "0.00",
+            "resim": "https://public.nftstatic.com/static/nft/res/nft-cex/S3/1668211484363_j9d62tnm0raawvv7ail0ywsagf79tehv.png"
+        },
+        {
+            "id": 08,
+            "isim": "Mutant Ape Yacht Club #2086",
+            "kategori": "art",
+            "fiyat": "0.00",
+            "resim": "https://public.nftstatic.com/static/nft/res/nft-cex/S3/1668432388902_hab504xd3i60j9p9ozmwkiowq2ca03te.png"
+        },
+      {
+            "id": 01,
+            "isim": "Mutant Ape Yacht Club #2056",
+            "kategori": "art",
+            "fiyat": "0.00",
+            "resim": "https://public.nftstatic.com/static/nft/res/nft-cex/S3/1668348884123_3ga38gu7agz7sbj0hc8cw9ymdwx8mw3w.png"
+        },
+        {
+            "id": 02,
+            "isim": "Mutant Ape Yacht Club #2057",
+            "kategori": "art",
+            "fiyat": "0.00",
+            "resim": "https://public.nftstatic.com/static/nft/res/nft-cex/S3/1668480985642_3hchfohqly5g7f6ovcif57zs1htmv5s3.png"
+        },
+        {
+            "id": 03,
+            "isim": "Mutant Ape Yacht Club #2058",
+            "kategori": "art",
+            "fiyat": "0.00",
+            "resim": "https://public.nftstatic.com/static/nft/res/nft-cex/S3/1668234211263_jbr0tts166f5drtz91c98cm7xnh3cb5w.png"
+        },
+        {
+            "id": 04,
+            "isim": "Mutant Ape Yacht Club #2059",
+            "kategori": "art",
+            "fiyat": "0.00",
+            "resim": "https://public.nftstatic.com/static/nft/res/nft-cex/S3/1668518694544_bd44zr9w8227yshbepecaqa8mrvhst42.png"
+        },
+        {
+            "id": 05,
+            "isim": "Mutant Ape Yacht Club #2060",
+            "kategori": "art",
+            "fiyat": "0.00",
+            "resim": "https://public.nftstatic.com/static/nft/res/nft-cex/S3/1668522406992_o7qoqf57r2c72tdwpcc3940ubdpugllg.png"
+        },
+        {
+            "id": 06,
+            "isim": "Mutant Ape Yacht Club #2061",
+            "kategori": "art",
+            "fiyat": "0.00",
+            "resim": "https://public.nftstatic.com/static/nft/res/nft-cex/S3/1668481038590_h9086vcu5qh6ol3fudwvh2t0mqcozjk7.png"
+        },
+        {
+            "id": 07,
+            "isim": "Mutant Ape Yacht Club #2032",
+            "kategori": "art",
+            "fiyat": "0.00",
+            "resim": "https://public.nftstatic.com/static/nft/res/nft-cex/S3/1668211484363_j9d62tnm0raawvv7ail0ywsagf79tehv.png"
+        },
+        {
+            "id": 08,
+            "isim": "Mutant Ape Yacht Club #2086",
+            "kategori": "art",
+            "fiyat": "0.00",
+            "resim": "https://public.nftstatic.com/static/nft/res/nft-cex/S3/1668432388902_hab504xd3i60j9p9ozmwkiowq2ca03te.png"
+        },
+      {
+            "id": 01,
+            "isim": "Mutant Ape Yacht Club #2056",
+            "kategori": "art",
+            "fiyat": "0.00",
+            "resim": "https://public.nftstatic.com/static/nft/res/nft-cex/S3/1668348884123_3ga38gu7agz7sbj0hc8cw9ymdwx8mw3w.png"
+        },
+        {
+            "id": 02,
+            "isim": "Mutant Ape Yacht Club #2057",
+            "kategori": "art",
+            "fiyat": "0.00",
+            "resim": "https://public.nftstatic.com/static/nft/res/nft-cex/S3/1668480985642_3hchfohqly5g7f6ovcif57zs1htmv5s3.png"
+        },
+        {
+            "id": 03,
+            "isim": "Mutant Ape Yacht Club #2058",
+            "kategori": "art",
+            "fiyat": "0.00",
+            "resim": "https://public.nftstatic.com/static/nft/res/nft-cex/S3/1668234211263_jbr0tts166f5drtz91c98cm7xnh3cb5w.png"
+        },
+        {
+            "id": 04,
+            "isim": "Mutant Ape Yacht Club #2059",
+            "kategori": "art",
+            "fiyat": "0.00",
+            "resim": "https://public.nftstatic.com/static/nft/res/nft-cex/S3/1668518694544_bd44zr9w8227yshbepecaqa8mrvhst42.png"
+        },
+        {
+            "id": 05,
+            "isim": "Mutant Ape Yacht Club #2060",
+            "kategori": "art",
+            "fiyat": "0.00",
+            "resim": "https://public.nftstatic.com/static/nft/res/nft-cex/S3/1668522406992_o7qoqf57r2c72tdwpcc3940ubdpugllg.png"
+        },
+        {
+            "id": 06,
+            "isim": "Mutant Ape Yacht Club #2061",
+            "kategori": "art",
+            "fiyat": "0.00",
+            "resim": "https://public.nftstatic.com/static/nft/res/nft-cex/S3/1668481038590_h9086vcu5qh6ol3fudwvh2t0mqcozjk7.png"
+        },
+        {
+            "id": 07,
+            "isim": "Mutant Ape Yacht Club #2032",
+            "kategori": "art",
+            "fiyat": "0.00",
+            "resim": "https://public.nftstatic.com/static/nft/res/nft-cex/S3/1668211484363_j9d62tnm0raawvv7ail0ywsagf79tehv.png"
+        },
+        {
+            "id": 08,
+            "isim": "Mutant Ape Yacht Club #2086",
+            "kategori": "art",
+            "fiyat": "0.00",
+            "resim": "https://public.nftstatic.com/static/nft/res/nft-cex/S3/1668432388902_hab504xd3i60j9p9ozmwkiowq2ca03te.png"
+        },
+      {
+            "id": 01,
+            "isim": "Mutant Ape Yacht Club #2056",
+            "kategori": "art",
+            "fiyat": "0.00",
+            "resim": "https://public.nftstatic.com/static/nft/res/nft-cex/S3/1668348884123_3ga38gu7agz7sbj0hc8cw9ymdwx8mw3w.png"
+        },
+        {
+            "id": 02,
+            "isim": "Mutant Ape Yacht Club #2057",
+            "kategori": "art",
+            "fiyat": "0.00",
+            "resim": "https://public.nftstatic.com/static/nft/res/nft-cex/S3/1668480985642_3hchfohqly5g7f6ovcif57zs1htmv5s3.png"
+        },
+        {
+            "id": 03,
+            "isim": "Mutant Ape Yacht Club #2058",
+            "kategori": "art",
+            "fiyat": "0.00",
+            "resim": "https://public.nftstatic.com/static/nft/res/nft-cex/S3/1668234211263_jbr0tts166f5drtz91c98cm7xnh3cb5w.png"
+        },
+        {
+            "id": 04,
+            "isim": "Mutant Ape Yacht Club #2059",
+            "kategori": "art",
+            "fiyat": "0.00",
+            "resim": "https://public.nftstatic.com/static/nft/res/nft-cex/S3/1668518694544_bd44zr9w8227yshbepecaqa8mrvhst42.png"
+        },
+        {
+            "id": 05,
+            "isim": "Mutant Ape Yacht Club #2060",
+            "kategori": "art",
+            "fiyat": "0.00",
+            "resim": "https://public.nftstatic.com/static/nft/res/nft-cex/S3/1668522406992_o7qoqf57r2c72tdwpcc3940ubdpugllg.png"
+        },
+        {
+            "id": 06,
+            "isim": "Mutant Ape Yacht Club #2061",
+            "kategori": "art",
+            "fiyat": "0.00",
+            "resim": "https://public.nftstatic.com/static/nft/res/nft-cex/S3/1668481038590_h9086vcu5qh6ol3fudwvh2t0mqcozjk7.png"
+        },
+        {
+            "id": 07,
+            "isim": "Mutant Ape Yacht Club #2032",
+            "kategori": "art",
+            "fiyat": "0.00",
+            "resim": "https://public.nftstatic.com/static/nft/res/nft-cex/S3/1668211484363_j9d62tnm0raawvv7ail0ywsagf79tehv.png"
+        },
+        {
+            "id": 08,
+            "isim": "Mutant Ape Yacht Club #2086",
+            "kategori": "art",
+            "fiyat": "0.00",
+            "resim": "https://public.nftstatic.com/static/nft/res/nft-cex/S3/1668432388902_hab504xd3i60j9p9ozmwkiowq2ca03te.png"
+        },
+      {
+            "id": 01,
+            "isim": "Mutant Ape Yacht Club #2056",
+            "kategori": "art",
+            "fiyat": "0.00",
+            "resim": "https://public.nftstatic.com/static/nft/res/nft-cex/S3/1668348884123_3ga38gu7agz7sbj0hc8cw9ymdwx8mw3w.png"
+        },
+        {
+            "id": 02,
+            "isim": "Mutant Ape Yacht Club #2057",
+            "kategori": "art",
+            "fiyat": "0.00",
+            "resim": "https://public.nftstatic.com/static/nft/res/nft-cex/S3/1668480985642_3hchfohqly5g7f6ovcif57zs1htmv5s3.png"
+        },
+        {
+            "id": 03,
+            "isim": "Mutant Ape Yacht Club #2058",
+            "kategori": "art",
+            "fiyat": "0.00",
+            "resim": "https://public.nftstatic.com/static/nft/res/nft-cex/S3/1668234211263_jbr0tts166f5drtz91c98cm7xnh3cb5w.png"
+        },
+        {
+            "id": 04,
+            "isim": "Mutant Ape Yacht Club #2059",
+            "kategori": "art",
+            "fiyat": "0.00",
+            "resim": "https://public.nftstatic.com/static/nft/res/nft-cex/S3/1668518694544_bd44zr9w8227yshbepecaqa8mrvhst42.png"
+        },
+        {
+            "id": 05,
+            "isim": "Mutant Ape Yacht Club #2060",
+            "kategori": "art",
+            "fiyat": "0.00",
+            "resim": "https://public.nftstatic.com/static/nft/res/nft-cex/S3/1668522406992_o7qoqf57r2c72tdwpcc3940ubdpugllg.png"
+        },
+        {
+            "id": 06,
+            "isim": "Mutant Ape Yacht Club #2061",
+            "kategori": "art",
+            "fiyat": "0.00",
+            "resim": "https://public.nftstatic.com/static/nft/res/nft-cex/S3/1668481038590_h9086vcu5qh6ol3fudwvh2t0mqcozjk7.png"
+        },
+        {
+            "id": 07,
+            "isim": "Mutant Ape Yacht Club #2032",
+            "kategori": "art",
+            "fiyat": "0.00",
+            "resim": "https://public.nftstatic.com/static/nft/res/nft-cex/S3/1668211484363_j9d62tnm0raawvv7ail0ywsagf79tehv.png"
+        },
+        {
+            "id": 08,
+            "isim": "Mutant Ape Yacht Club #2086",
+            "kategori": "art",
+            "fiyat": "0.00",
+            "resim": "https://public.nftstatic.com/static/nft/res/nft-cex/S3/1668432388902_hab504xd3i60j9p9ozmwkiowq2ca03te.png"
+        },
+      {
+            "id": 01,
+            "isim": "Mutant Ape Yacht Club #2056",
+            "kategori": "art",
+            "fiyat": "0.00",
+            "resim": "https://public.nftstatic.com/static/nft/res/nft-cex/S3/1668348884123_3ga38gu7agz7sbj0hc8cw9ymdwx8mw3w.png"
+        },
+        {
+            "id": 02,
+            "isim": "Mutant Ape Yacht Club #2057",
+            "kategori": "art",
+            "fiyat": "0.00",
+            "resim": "https://public.nftstatic.com/static/nft/res/nft-cex/S3/1668480985642_3hchfohqly5g7f6ovcif57zs1htmv5s3.png"
+        },
+        {
+            "id": 03,
+            "isim": "Mutant Ape Yacht Club #2058",
+            "kategori": "art",
+            "fiyat": "0.00",
+            "resim": "https://public.nftstatic.com/static/nft/res/nft-cex/S3/1668234211263_jbr0tts166f5drtz91c98cm7xnh3cb5w.png"
+        },
+        {
+            "id": 04,
+            "isim": "Mutant Ape Yacht Club #2059",
+            "kategori": "art",
+            "fiyat": "0.00",
+            "resim": "https://public.nftstatic.com/static/nft/res/nft-cex/S3/1668518694544_bd44zr9w8227yshbepecaqa8mrvhst42.png"
+        },
+        {
+            "id": 05,
+            "isim": "Mutant Ape Yacht Club #2060",
+            "kategori": "art",
+            "fiyat": "0.00",
+            "resim": "https://public.nftstatic.com/static/nft/res/nft-cex/S3/1668522406992_o7qoqf57r2c72tdwpcc3940ubdpugllg.png"
+        },
+        {
+            "id": 06,
+            "isim": "Mutant Ape Yacht Club #2061",
+            "kategori": "art",
+            "fiyat": "0.00",
+            "resim": "https://public.nftstatic.com/static/nft/res/nft-cex/S3/1668481038590_h9086vcu5qh6ol3fudwvh2t0mqcozjk7.png"
+        },
+        {
+            "id": 07,
+            "isim": "Mutant Ape Yacht Club #2032",
+            "kategori": "art",
+            "fiyat": "0.00",
+            "resim": "https://public.nftstatic.com/static/nft/res/nft-cex/S3/1668211484363_j9d62tnm0raawvv7ail0ywsagf79tehv.png"
+        },
+        {
+            "id": 08,
+            "isim": "Mutant Ape Yacht Club #2086",
+            "kategori": "art",
+            "fiyat": "0.00",
+            "resim": "https://public.nftstatic.com/static/nft/res/nft-cex/S3/1668432388902_hab504xd3i60j9p9ozmwkiowq2ca03te.png"
+        },
+      {
+            "id": 01,
+            "isim": "Mutant Ape Yacht Club #2056",
+            "kategori": "art",
+            "fiyat": "0.00",
+            "resim": "https://public.nftstatic.com/static/nft/res/nft-cex/S3/1668348884123_3ga38gu7agz7sbj0hc8cw9ymdwx8mw3w.png"
+        },
+        {
+            "id": 02,
+            "isim": "Mutant Ape Yacht Club #2057",
+            "kategori": "art",
+            "fiyat": "0.00",
+            "resim": "https://public.nftstatic.com/static/nft/res/nft-cex/S3/1668480985642_3hchfohqly5g7f6ovcif57zs1htmv5s3.png"
+        },
+        {
+            "id": 03,
+            "isim": "Mutant Ape Yacht Club #2058",
+            "kategori": "art",
+            "fiyat": "0.00",
+            "resim": "https://public.nftstatic.com/static/nft/res/nft-cex/S3/1668234211263_jbr0tts166f5drtz91c98cm7xnh3cb5w.png"
+        },
+        {
+            "id": 04,
+            "isim": "Mutant Ape Yacht Club #2059",
+            "kategori": "art",
+            "fiyat": "0.00",
+            "resim": "https://public.nftstatic.com/static/nft/res/nft-cex/S3/1668518694544_bd44zr9w8227yshbepecaqa8mrvhst42.png"
+        },
+        {
+            "id": 05,
+            "isim": "Mutant Ape Yacht Club #2060",
+            "kategori": "art",
+            "fiyat": "0.00",
+            "resim": "https://public.nftstatic.com/static/nft/res/nft-cex/S3/1668522406992_o7qoqf57r2c72tdwpcc3940ubdpugllg.png"
+        },
+        {
+            "id": 06,
+            "isim": "Mutant Ape Yacht Club #2061",
+            "kategori": "art",
+            "fiyat": "0.00",
+            "resim": "https://public.nftstatic.com/static/nft/res/nft-cex/S3/1668481038590_h9086vcu5qh6ol3fudwvh2t0mqcozjk7.png"
+        },
+        {
+            "id": 07,
+            "isim": "Mutant Ape Yacht Club #2032",
+            "kategori": "art",
+            "fiyat": "0.00",
+            "resim": "https://public.nftstatic.com/static/nft/res/nft-cex/S3/1668211484363_j9d62tnm0raawvv7ail0ywsagf79tehv.png"
+        },
+        {
+            "id": 08,
+            "isim": "Mutant Ape Yacht Club #2086",
+            "kategori": "art",
+            "fiyat": "0.00",
+            "resim": "https://public.nftstatic.com/static/nft/res/nft-cex/S3/1668432388902_hab504xd3i60j9p9ozmwkiowq2ca03te.png"
+        }
+    ],
+    "success": true
+}
