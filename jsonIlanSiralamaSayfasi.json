@@ -1,0 +1,26 @@
+{
+    "urunler": [
+        {
+            "id": 01,
+            "isim": "nft1",
+            "kategori": "art",
+            "fiyat": "10.00",
+            "resim": "https://bitcoinist.com/wp-content/uploads/2022/09/crypto-1.jpeg"
+        },
+        {
+            "id": 02,
+            "isim": "nft2",
+            "kategori": "item",
+            "fiyat": "20.00",
+            "resim": "https://www.usnews.com/cmsmedia/db/ae/47d566714fd6b1143c313ba9a685/cryptocurrencycoinvariety.jpg"
+        },
+        {
+            "id": 03,
+            "isim": "nft3",
+            "kategori": "land",
+            "fiyat": "30.00",
+            "resim": "https://www.bankrate.com/2022/07/07151503/Cryptocurrency-statistics.jpeg"
+        }
+    ],
+    "success": true
+}
