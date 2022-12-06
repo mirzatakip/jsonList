@@ -2,172 +2,60 @@
     "urunler": [
         {
             "id": 01,
-            "isim": "nft1",
+            "isim": "Mutant Ape Yacht Club #2056",
             "kategori": "art",
-            "fiyat": "10.00",
-            "resim": "https://bitcoinist.com/wp-content/uploads/2022/09/crypto-1.jpeg"
+            "fiyat": "0.00",
+            "resim": "https://public.nftstatic.com/static/nft/res/nft-cex/S3/1668348884123_3ga38gu7agz7sbj0hc8cw9ymdwx8mw3w.png"
         },
         {
             "id": 02,
-            "isim": "nft2",
-            "kategori": "item",
-            "fiyat": "20.00",
-            "resim": "https://www.usnews.com/cmsmedia/db/ae/47d566714fd6b1143c313ba9a685/cryptocurrencycoinvariety.jpg"
+            "isim": "Mutant Ape Yacht Club #2057",
+            "kategori": "art",
+            "fiyat": "0.00",
+            "resim": "https://public.nftstatic.com/static/nft/res/nft-cex/S3/1668480985642_3hchfohqly5g7f6ovcif57zs1htmv5s3.png"
         },
         {
             "id": 03,
-            "isim": "nft3",
-            "kategori": "land",
-            "fiyat": "30.00",
-            "resim": "https://www.bankrate.com/2022/07/07151503/Cryptocurrency-statistics.jpeg"
+            "isim": "Mutant Ape Yacht Club #2058",
+            "kategori": "art",
+            "fiyat": "0.00",
+            "resim": "https://public.nftstatic.com/static/nft/res/nft-cex/S3/1668234211263_jbr0tts166f5drtz91c98cm7xnh3cb5w.png"
         },
         {
             "id": 04,
-            "isim": "nft4",
-            "kategori": "land",
-            "fiyat": "40.00",
-            "resim": "https://images.cointelegraph.com/images/1434_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjItMTEvYzY5NDhlM2EtOWRhZC00Yjc5LWIwMDgtMDQ0MzhmNTJjNDMzLmpwZw==.jpg"
+            "isim": "Mutant Ape Yacht Club #2059",
+            "kategori": "art",
+            "fiyat": "0.00",
+            "resim": "https://public.nftstatic.com/static/nft/res/nft-cex/S3/1668518694544_bd44zr9w8227yshbepecaqa8mrvhst42.png"
         },
         {
             "id": 05,
-            "isim": "nft5",
-            "kategori": "item",
-            "fiyat": "50.00",
-            "resim": "https://www.paymentsjournal.com/wp-content/uploads/2022/04/1661-scaled-e1649434277532.jpg"
+            "isim": "Mutant Ape Yacht Club #2060",
+            "kategori": "art",
+            "fiyat": "0.00",
+            "resim": "https://public.nftstatic.com/static/nft/res/nft-cex/S3/1668522406992_o7qoqf57r2c72tdwpcc3940ubdpugllg.png"
         },
         {
             "id": 06,
-            "isim": "nft6",
+            "isim": "Mutant Ape Yacht Club #2061",
             "kategori": "art",
-            "fiyat": "60.00",
-            "resim": "https://img.freepik.com/premium-vector/ethereum-cryptocurrency-digital-coin-presentation-computer-circuit-board-vector-blockchain_185386-777.jpg"
+            "fiyat": "0.00",
+            "resim": "https://public.nftstatic.com/static/nft/res/nft-cex/S3/1668481038590_h9086vcu5qh6ol3fudwvh2t0mqcozjk7.png"
         },
         {
-            "id": 01,
-            "isim": "nft1",
+            "id": 07,
+            "isim": "Mutant Ape Yacht Club #2032",
             "kategori": "art",
-            "fiyat": "10.00",
-            "resim": "http://c.files.bbci.co.uk/14C36/production/_117564058_nft_thumb1.jpg"
+            "fiyat": "0.00",
+            "resim": "https://public.nftstatic.com/static/nft/res/nft-cex/S3/1668211484363_j9d62tnm0raawvv7ail0ywsagf79tehv.png"
         },
         {
-            "id": 02,
-            "isim": "nft2",
-            "kategori": "item",
-            "fiyat": "20.00",
-            "resim": "https://www.mapfre.com.tr/blog/media/2022/07/NFT-nedir.jpg"
-        },
-        {
-            "id": 03,
-            "isim": "nft3",
-            "kategori": "land",
-            "fiyat": "30.00",
-            "resim": "https://i2.milimaj.com/i/milliyet/75/0x410/61822dd586b244404cf90f2c.jpg"
-        },
-        {
-            "id": 04,
-            "isim": "nft4",
-            "kategori": "land",
-            "fiyat": "40.00",
-            "resim": "https://listelist.com/wp-content/uploads/2022/10/nft.jpg"
-        },
-        {
-            "id": 05,
-            "isim": "nft5",
-            "kategori": "item",
-            "fiyat": "50.00",
-            "resim": "https://www.speakeragency.com.tr/media/h4shzgp0/387840464-690x460.jpg"
-        },
-        {
-            "id": 06,
-            "isim": "nft6",
+            "id": 08,
+            "isim": "Mutant Ape Yacht Club #2086",
             "kategori": "art",
-            "fiyat": "60.00",
-            "resim": "https://net-bt.com.tr/wp-content/uploads/2022/02/nft-nedir.jpg"
+            "fiyat": "0.00",
+            "resim": "https://public.nftstatic.com/static/nft/res/nft-cex/S3/1668432388902_hab504xd3i60j9p9ozmwkiowq2ca03te.png"
         },
-        {
-            "id": 01,
-            "isim": "nft1",
-            "kategori": "art",
-            "fiyat": "10.00",
-            "resim": "http://c.files.bbci.co.uk/14C36/production/_117564058_nft_thumb1.jpg"
-        },
-        {
-            "id": 02,
-            "isim": "nft2",
-            "kategori": "item",
-            "fiyat": "20.00",
-            "resim": "https://www.mapfre.com.tr/blog/media/2022/07/NFT-nedir.jpg"
-        },
-        {
-            "id": 03,
-            "isim": "nft3",
-            "kategori": "land",
-            "fiyat": "30.00",
-            "resim": "https://i2.milimaj.com/i/milliyet/75/0x410/61822dd586b244404cf90f2c.jpg"
-        },
-        {
-            "id": 04,
-            "isim": "nft4",
-            "kategori": "land",
-            "fiyat": "40.00",
-            "resim": "https://listelist.com/wp-content/uploads/2022/10/nft.jpg"
-        },
-        {
-            "id": 05,
-            "isim": "nft5",
-            "kategori": "item",
-            "fiyat": "50.00",
-            "resim": "https://www.speakeragency.com.tr/media/h4shzgp0/387840464-690x460.jpg"
-        },
-        {
-            "id": 06,
-            "isim": "nft6",
-            "kategori": "art",
-            "fiyat": "60.00",
-            "resim": "https://net-bt.com.tr/wp-content/uploads/2022/02/nft-nedir.jpg"
-        },
-        {
-            "id": 01,
-            "isim": "nft1",
-            "kategori": "art",
-            "fiyat": "10.00",
-            "resim": "http://c.files.bbci.co.uk/14C36/production/_117564058_nft_thumb1.jpg"
-        },
-        {
-            "id": 02,
-            "isim": "nft2",
-            "kategori": "item",
-            "fiyat": "20.00",
-            "resim": "https://www.mapfre.com.tr/blog/media/2022/07/NFT-nedir.jpg"
-        },
-        {
-            "id": 03,
-            "isim": "nft3",
-            "kategori": "land",
-            "fiyat": "30.00",
-            "resim": "https://i2.milimaj.com/i/milliyet/75/0x410/61822dd586b244404cf90f2c.jpg"
-        },
-        {
-            "id": 04,
-            "isim": "nft4",
-            "kategori": "land",
-            "fiyat": "40.00",
-            "resim": "https://listelist.com/wp-content/uploads/2022/10/nft.jpg"
-        },
-        {
-            "id": 05,
-            "isim": "nft5",
-            "kategori": "item",
-            "fiyat": "50.00",
-            "resim": "https://www.speakeragency.com.tr/media/h4shzgp0/387840464-690x460.jpg"
-        },
-        {
-            "id": 06,
-            "isim": "nft6",
-            "kategori": "art",
-            "fiyat": "60.00",
-            "resim": "https://net-bt.com.tr/wp-content/uploads/2022/02/nft-nedir.jpg"
-        }
     ],
     "success": true
 }
