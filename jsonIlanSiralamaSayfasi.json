@@ -2,24 +2,87 @@
     "urunler": [
         {
             "id": 01,
-            "isim": "nft1",
+            "isim": "TUD #529",
             "kategori": "art",
             "fiyat": "10.00",
             "resim": "https://public.nftstatic.com/static/nft/res/nft-cex/S3/1658525920797_j28hjib875c3t8suojswjpiyikcv1vbq.png"
         },
         {
             "id": 02,
-            "isim": "nft2",
+            "isim": "TUD #475",
             "kategori": "item",
             "fiyat": "20.00",
-            "resim": "https://www.usnews.com/cmsmedia/db/ae/47d566714fd6b1143c313ba9a685/cryptocurrencycoinvariety.jpg"
+            "resim": "https://public.nftstatic.com/static/nft/res/nft-cex/S3/1658523336381_h79et27jzka4ucheng9xo2eqkpw3nlbd.png"
         },
         {
             "id": 03,
-            "isim": "nft3",
+            "isim": "TUD #2239",
             "kategori": "land",
             "fiyat": "30.00",
-            "resim": "https://www.bankrate.com/2022/07/07151503/Cryptocurrency-statistics.jpeg"
+            "resim": "https://public.nftstatic.com/static/nft/res/nft-cex/S3/1659085730901_yz920al1q9vypcf5jm5c6vn8ktcvmdqk.png"
+        },
+        {
+            "id": 04,
+            "isim": "TUD #5573",
+            "kategori": "land",
+            "fiyat": "30.00",
+            "resim": "https://public.nftstatic.com/static/nft/res/nft-cex/S3/1662411871387_hfbib7iewyj5aecqdzper632eykaitlh.png"
+        },
+        {
+            "id": 05,
+            "isim": "TUD #2131",
+            "kategori": "land",
+            "fiyat": "30.00",
+            "resim": "https://public.nftstatic.com/static/nft/res/nft-cex/S3/1659056025515_nn53f6bgsfyo83g8ip3yv8jaubcdtyan.png"
+        },
+        {
+            "id": 06,
+            "isim": "TUD #768",
+            "kategori": "land",
+            "fiyat": "30.00",
+            "resim": "https://public.nftstatic.com/static/nft/res/nft-cex/S3/1658585255849_slzk3u5t82sq5cfzc20xd85cqk4a6uai.png"
+        },
+        {
+            "id": 07,
+            "isim": "TUD #926",
+            "kategori": "land",
+            "fiyat": "30.00",
+            "resim": "https://public.nftstatic.com/static/nft/res/nft-cex/S3/1658601102072_1yvlbeerm656o9bva8n2tt3ozl5yauym.png"
+        },
+        {
+            "id": 08,
+            "isim": "TUD #7165",
+            "kategori": "land",
+            "fiyat": "30.00",
+            "resim": "https://public.nftstatic.com/static/nft/res/nft-cex/S3/1663109547192_ctxyinpne8n5rikl2msbf9fjv7k7i3q9.png"
+        },
+        {
+            "id": 09,
+            "isim": "TUD #6735",
+            "kategori": "land",
+            "fiyat": "30.00",
+            "resim": "https://public.nftstatic.com/static/nft/res/nft-cex/S3/1663084932987_huhzauly5hu7l9ew0wu4drvg7hov0df1.png"
+        },
+        {
+            "id": 10,
+            "isim": "TUD #694",
+            "kategori": "land",
+            "fiyat": "30.00",
+            "resim": "https://public.nftstatic.com/static/nft/res/nft-cex/S3/1658578557257_leve98r3l3a5uay7ldis6sbzbvky4it8.png"
+        },
+        {
+            "id": 11,
+            "isim": "TUD #2220",
+            "kategori": "land",
+            "fiyat": "30.00",
+            "resim": "https://public.nftstatic.com/static/nft/res/nft-cex/S3/1659083012312_txis4oxn20y8xb9vsm3y5se340k5t9rz.png"
+        },
+        {
+            "id": 12,
+            "isim": "TUD #2215",
+            "kategori": "land",
+            "fiyat": "30.00",
+            "resim": "https://public.nftstatic.com/static/nft/res/nft-cex/S3/1659082445853_b4fk68rs9d8jvw9we1p9rwi395felj8j.png"
         }
     ],
     "success": true
