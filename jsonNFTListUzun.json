@@ -195,21 +195,7 @@
             "kategori": "ART",
             "fiyat": "0.00",
             "resim": "https://drive.google.com/file/d/1vysAGGMRPnILQH7htsdEPoMqqBcVRSSs/view?usp=sharing"
-        },
-        {
-            "id": 01,
-            "isim": "Nft",
-            "kategori": "ART",
-            "fiyat": "0.00",
-            "resim": ""
-        },
-        {
-            "id": 01,
-            "isim": "Nft",
-            "kategori": "ART",
-            "fiyat": "0.00",
-            "resim": ""
-        },
+        }
     ],
     "success": true
 }
