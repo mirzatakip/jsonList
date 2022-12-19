@@ -29,14 +29,14 @@
             "resim": "https://cdn.akakce.com/x/apple/iphone-13-pro-max.jpg"
         },
         {
-            "id": 01,
+            "id": 04,
             "isim": "C10103",
             "kategori": "Telefon",
             "fiyat": "30.00",
             "resim": "https://cdn.akakce.com/x/apple/iphone-13-pro-max.jpg"
         },
         {
-            "id": 02,
+            "id": 05,
             "isim": "B10108",
             "kategori": "Telefon",
             "fiyat": "10.00",
@@ -722,7 +722,7 @@
             "resim": "https://cdn.akakce.com/x/apple/iphone-13-pro-max.jpg"
         },
         {
-            "id": 03,
+            "id": 100,
             "isim": "A1010",
             "kategori": "Telefon",
             "fiyat": "20.00",
