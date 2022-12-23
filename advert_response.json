@@ -1,0 +1,121 @@
+{
+    "success": true,
+    "data": {
+        "id": 280655,
+        "name": "AdvertName",
+        "number": null,
+        "type": "null",
+        "description": "AdvertDescription",
+        "collection_name": "AdvertCollectionName",
+        "is_valid": true,
+        "currency_id": 1,
+        "category_id": 2,
+        "user_id": 5058,
+        "price": 555,
+        "discount_price": null,
+        "date_of_purchase": "2021-12-14 00:12:00",
+        "warranty_end_date": "2023-12-14 00:12:00",
+        "product_status_id": 17,
+        "advert_status_id": 1,
+        "warranty": true,
+        "sku": null,
+        "created_at": "2022-12-23 09:12:53",
+        "updated_at": "2022-12-23 09:12:53",
+        "media": {
+            "count": 2,
+            "items": [
+                {
+                    "id": 7,
+                    "model_type": "App\\Models\\Advert",
+                    "model_id": 280655,
+                    "uuid": "e985a786-9920-4273-b309-44279cb5becf",
+                    "collection_name": "image",
+                    "name": "Screenshot from 2022-12-20 16-08-03",
+                    "file_name": "Screenshot-from-2022-12-20-16-08-03.png",
+                    "mime_type": "image/png",
+                    "disk": "public",
+                    "conversions_disk": "public",
+                    "size": 106511,
+                    "manipulations": [],
+                    "custom_properties": {
+                        "uuid": "a8b440aa-0de0-4e0c-849d-4c466748355b",
+                        "user_id": "5058"
+                    },
+                    "generated_conversions": {
+                        "icon": true,
+                        "thumb": true,
+                        "normal": true
+                    },
+                    "responsive_images": [],
+                    "order_column": 1,
+                    "created_at": "2022-12-23T09:00:53.000000Z",
+                    "updated_at": "2022-12-23T09:00:53.000000Z",
+                    "thumb_url": "http://127.0.0.1:8000/storage/7/conversions/Screenshot-from-2022-12-20-16-08-03-thumb.jpg",
+                    "icon_url": "http://127.0.0.1:8000/storage/7/conversions/Screenshot-from-2022-12-20-16-08-03-icon.jpg",
+                    "original_url": "http://127.0.0.1:8000/storage/7/Screenshot-from-2022-12-20-16-08-03.png",
+                    "preview_url": ""
+                },
+                {
+                    "id": 9,
+                    "model_type": "App\\Models\\Advert",
+                    "model_id": 280655,
+                    "uuid": "e3e7425e-593a-4103-914f-c20b46fc8041",
+                    "collection_name": "image",
+                    "name": "Screenshot from 2022-12-20 16-02-11",
+                    "file_name": "Screenshot-from-2022-12-20-16-02-11.png",
+                    "mime_type": "image/png",
+                    "disk": "public",
+                    "conversions_disk": "public",
+                    "size": 251766,
+                    "manipulations": [],
+                    "custom_properties": {
+                        "uuid": "ec36d5bd-b34d-43ea-96af-6c33ae5cae1c",
+                        "user_id": "5058"
+                    },
+                    "generated_conversions": {
+                        "icon": true,
+                        "thumb": true,
+                        "normal": true
+                    },
+                    "responsive_images": [],
+                    "order_column": 1,
+                    "created_at": "2022-12-23T09:00:53.000000Z",
+                    "updated_at": "2022-12-23T09:00:53.000000Z",
+                    "thumb_url": "http://127.0.0.1:8000/storage/9/conversions/Screenshot-from-2022-12-20-16-02-11-thumb.jpg",
+                    "icon_url": "http://127.0.0.1:8000/storage/9/conversions/Screenshot-from-2022-12-20-16-02-11-icon.jpg",
+                    "original_url": "http://127.0.0.1:8000/storage/9/Screenshot-from-2022-12-20-16-02-11.png",
+                    "preview_url": ""
+                }
+            ]
+        },
+        "category": {
+            "id": 2,
+            "name": "Voluptatibus saepe ut doloremque officiis quo. Provident nam voluptates labore occaecati molestiae.",
+            "description": "Aperiam harum qui porro quia suscipit non aut ut. Consequatur aperiam temporibus consequatur vero quasi numquam.",
+            "parent_id": null,
+            "created_at": "1983-06-07 08:06:37",
+            "updated_at": "2007-03-08 18:03:35"
+        },
+        "advertStatus": {
+            "id": 1,
+            "status": "is live",
+            "description": "is live",
+            "in_valid": true
+        },
+        "productStatus": {
+            "id": 17,
+            "status": "usedd",
+            "description": "usedd",
+            "in_valid": true
+        },
+        "user": {
+            "id": 5058,
+            "name": "Joseph99",
+            "email": "yusuf.togtay@gmail.com"
+        }
+    },
+    "message": "Advert retrieved successfully.",
+    "meta": {
+        "locale": "en"
+    }
+}
