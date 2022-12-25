@@ -1,0 +1,25 @@
+{
+    "urunler": [
+        {
+            "id": 38,
+            "isim": "MERCEDES POLAR",
+            "marka": "..."
+        },
+        {
+            "id": 39,
+            "isim": "FILELI MERCEDES POLAR",
+            "marka": "..."
+        },
+        {
+            "id": 40,
+            "isim": "AUDI KIRMIZI FILELI POLAR",
+            "marka": "..."
+        },
+        {
+            "id": 41,
+            "isim": "ZARA BLUZ",
+            "marka": "ZARA"
+        }
+    ],
+    "success": true
+}
