@@ -1,0 +1,112 @@
+{
+    "success": true
+    "data" {
+       "data": [
+        {
+            "type": "movie",
+            "id": "ddd-dsdfsdsf0-dsfsfsd0",
+            "name": "The Predator",
+            "poster": "poster.jpg",
+ 			"overview":"",
+ 			"runtime":107,
+  			"year":2018,
+  			"genre":"Action,Adventure",
+  			"rate":5.3,
+  			"backdrop":"backdrop.jpg",
+  			"age":"PG",
+  			"player":"link",
+  			"c_name":"Boyd Holbrok",
+  			"c_image":"http://c.files.bbci.co.uk/14C36/production/_117564058_nft_thumb1.jpg",
+  			"c_id":93
+        },
+		{
+            "type": "movie",
+            "id": "ddd-dsdfsdsf0-dsfsfsd0",
+            "name": "The Predator",
+            "poster": "poster.jpg",
+ 			"overview":"",
+ 			"runtime":107,
+  			"year":2018,
+  			"genre":"Action,Adventure",
+  			"rate":5.3,
+  			"backdrop":"backdrop.jpg",
+  			"age":"PG",
+  			"player":"link",
+  			"c_name":"Boyd Holbrok",
+  			"c_image":"http://c.files.bbci.co.uk/14C36/production/_117564058_nft_thumb1.jpg",
+  			"c_id":93
+        },
+		{
+            "type": "movie",
+            "id": "ddd-dsdfsdsf0-dsfsfsd0",
+            "name": "The Predator",
+            "poster": "poster.jpg",
+ 			"overview":"",
+ 			"runtime":107,
+  			"year":2018,
+  			"genre":"Action,Adventure",
+  			"rate":5.3,
+  			"backdrop":"backdrop.jpg",
+  			"age":"PG",
+  			"player":"link",
+  			"c_name":"Boyd Holbrok",
+  			"c_image":"http://c.files.bbci.co.uk/14C36/production/_117564058_nft_thumb1.jpg",
+  			"c_id":93
+        },
+		{
+            "type": "movie",
+            "id": "ddd-dsdfsdsf0-dsfsfsd0",
+            "name": "The Predator",
+            "poster": "poster.jpg",
+ 			"overview":"",
+ 			"runtime":107,
+  			"year":2018,
+  			"genre":"Action,Adventure",
+  			"rate":5.3,
+  			"backdrop":"backdrop.jpg",
+  			"age":"PG",
+  			"player":"link",
+  			"c_name":"Boyd Holbrok",
+  			"c_image":"http://c.files.bbci.co.uk/14C36/production/_117564058_nft_thumb1.jpg",
+  			"c_id":93
+        },
+		{
+            "type": "movie",
+            "id": "ddd-dsdfsdsf0-dsfsfsd0",
+            "name": "The Predator",
+            "poster": "poster.jpg",
+ 			"overview":"",
+ 			"runtime":107,
+  			"year":2018,
+  			"genre":"Action,Adventure",
+  			"rate":5.3,
+  			"backdrop":"backdrop.jpg",
+  			"age":"PG",
+  			"player":"link",
+  			"c_name":"Boyd Holbrok",
+  			"c_image":"http://c.files.bbci.co.uk/14C36/production/_117564058_nft_thumb1.jpg",
+  			"c_id":93
+        },
+		{
+            "type": "movie",
+            "id": "ddd-dsdfsdsf0-dsfsfsd0",
+            "name": "The Predator",
+            "poster": "poster.jpg",
+ 			"overview":"",
+ 			"runtime":107,
+  			"year":2018,
+  			"genre":"Action,Adventure",
+  			"rate":5.3,
+  			"backdrop":"backdrop.jpg",
+  			"age":"PG",
+  			"player":"link",
+  			"c_name":"Boyd Holbrok",
+  			"c_image":"http://c.files.bbci.co.uk/14C36/production/_117564058_nft_thumb1.jpg",
+  			"c_id":93
+        }
+]
+       
+   
+}
+
+}
