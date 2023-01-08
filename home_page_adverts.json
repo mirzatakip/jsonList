@@ -22,6 +22,186 @@
                 "discount_price": null,
                 "currency_symbol": "€",
                 "rating": 3.92
+            },
+            {
+                "id": 5,
+                "name": "",
+                "thumb_image": "http://127.0.0.1:8000/storage/16731/conversions/5-thumb.jpg",
+                "category_name": "Iusto illum adipisci excepturi nihil ut. Laboriosam nesciunt fugit libero iste ut eos. Sint accusantium accusantium numquam. Voluptas cupiditate autem omnis molestiae labore est.",
+                "price": 3529.01,
+                "discount_price": null,
+                "currency_symbol": "€",
+                "rating": 4.76
+            },
+            {
+                "id": 6,
+                "name": "",
+                "thumb_image": "http://127.0.0.1:8000/storage/16733/conversions/6-thumb.jpg",
+                "category_name": "Sunt quidem ipsa assumenda aut sapiente suscipit. Dolore commodi occaecati nesciunt. Numquam fugit aperiam vero aut nesciunt quia doloremque. Laudantium quasi sed minus eaque voluptatibus quia omnis.",
+                "price": 36773.08,
+                "discount_price": null,
+                "currency_symbol": "€",
+                "rating": 3.92
+            },
+            {
+                "id": 5,
+                "name": "",
+                "thumb_image": "http://127.0.0.1:8000/storage/16731/conversions/5-thumb.jpg",
+                "category_name": "Iusto illum adipisci excepturi nihil ut. Laboriosam nesciunt fugit libero iste ut eos. Sint accusantium accusantium numquam. Voluptas cupiditate autem omnis molestiae labore est.",
+                "price": 3529.01,
+                "discount_price": null,
+                "currency_symbol": "€",
+                "rating": 4.76
+            },
+            {
+                "id": 6,
+                "name": "",
+                "thumb_image": "http://127.0.0.1:8000/storage/16733/conversions/6-thumb.jpg",
+                "category_name": "Sunt quidem ipsa assumenda aut sapiente suscipit. Dolore commodi occaecati nesciunt. Numquam fugit aperiam vero aut nesciunt quia doloremque. Laudantium quasi sed minus eaque voluptatibus quia omnis.",
+                "price": 36773.08,
+                "discount_price": null,
+                "currency_symbol": "€",
+                "rating": 3.92
+            },
+            {
+                "id": 5,
+                "name": "",
+                "thumb_image": "http://127.0.0.1:8000/storage/16731/conversions/5-thumb.jpg",
+                "category_name": "Iusto illum adipisci excepturi nihil ut. Laboriosam nesciunt fugit libero iste ut eos. Sint accusantium accusantium numquam. Voluptas cupiditate autem omnis molestiae labore est.",
+                "price": 3529.01,
+                "discount_price": null,
+                "currency_symbol": "€",
+                "rating": 4.76
+            },
+            {
+                "id": 6,
+                "name": "",
+                "thumb_image": "http://127.0.0.1:8000/storage/16733/conversions/6-thumb.jpg",
+                "category_name": "Sunt quidem ipsa assumenda aut sapiente suscipit. Dolore commodi occaecati nesciunt. Numquam fugit aperiam vero aut nesciunt quia doloremque. Laudantium quasi sed minus eaque voluptatibus quia omnis.",
+                "price": 36773.08,
+                "discount_price": null,
+                "currency_symbol": "€",
+                "rating": 3.92
+            },
+            {
+                "id": 5,
+                "name": "",
+                "thumb_image": "http://127.0.0.1:8000/storage/16731/conversions/5-thumb.jpg",
+                "category_name": "Iusto illum adipisci excepturi nihil ut. Laboriosam nesciunt fugit libero iste ut eos. Sint accusantium accusantium numquam. Voluptas cupiditate autem omnis molestiae labore est.",
+                "price": 3529.01,
+                "discount_price": null,
+                "currency_symbol": "€",
+                "rating": 4.76
+            },
+            {
+                "id": 6,
+                "name": "",
+                "thumb_image": "http://127.0.0.1:8000/storage/16733/conversions/6-thumb.jpg",
+                "category_name": "Sunt quidem ipsa assumenda aut sapiente suscipit. Dolore commodi occaecati nesciunt. Numquam fugit aperiam vero aut nesciunt quia doloremque. Laudantium quasi sed minus eaque voluptatibus quia omnis.",
+                "price": 36773.08,
+                "discount_price": null,
+                "currency_symbol": "€",
+                "rating": 3.92
+            },
+            {
+                "id": 5,
+                "name": "",
+                "thumb_image": "http://127.0.0.1:8000/storage/16731/conversions/5-thumb.jpg",
+                "category_name": "Iusto illum adipisci excepturi nihil ut. Laboriosam nesciunt fugit libero iste ut eos. Sint accusantium accusantium numquam. Voluptas cupiditate autem omnis molestiae labore est.",
+                "price": 3529.01,
+                "discount_price": null,
+                "currency_symbol": "€",
+                "rating": 4.76
+            },
+            {
+                "id": 6,
+                "name": "",
+                "thumb_image": "http://127.0.0.1:8000/storage/16733/conversions/6-thumb.jpg",
+                "category_name": "Sunt quidem ipsa assumenda aut sapiente suscipit. Dolore commodi occaecati nesciunt. Numquam fugit aperiam vero aut nesciunt quia doloremque. Laudantium quasi sed minus eaque voluptatibus quia omnis.",
+                "price": 36773.08,
+                "discount_price": null,
+                "currency_symbol": "€",
+                "rating": 3.92
+            },
+            {
+                "id": 5,
+                "name": "",
+                "thumb_image": "http://127.0.0.1:8000/storage/16731/conversions/5-thumb.jpg",
+                "category_name": "Iusto illum adipisci excepturi nihil ut. Laboriosam nesciunt fugit libero iste ut eos. Sint accusantium accusantium numquam. Voluptas cupiditate autem omnis molestiae labore est.",
+                "price": 3529.01,
+                "discount_price": null,
+                "currency_symbol": "€",
+                "rating": 4.76
+            },
+            {
+                "id": 6,
+                "name": "",
+                "thumb_image": "http://127.0.0.1:8000/storage/16733/conversions/6-thumb.jpg",
+                "category_name": "Sunt quidem ipsa assumenda aut sapiente suscipit. Dolore commodi occaecati nesciunt. Numquam fugit aperiam vero aut nesciunt quia doloremque. Laudantium quasi sed minus eaque voluptatibus quia omnis.",
+                "price": 36773.08,
+                "discount_price": null,
+                "currency_symbol": "€",
+                "rating": 3.92
+            },
+            {
+                "id": 5,
+                "name": "",
+                "thumb_image": "http://127.0.0.1:8000/storage/16731/conversions/5-thumb.jpg",
+                "category_name": "Iusto illum adipisci excepturi nihil ut. Laboriosam nesciunt fugit libero iste ut eos. Sint accusantium accusantium numquam. Voluptas cupiditate autem omnis molestiae labore est.",
+                "price": 3529.01,
+                "discount_price": null,
+                "currency_symbol": "€",
+                "rating": 4.76
+            },
+            {
+                "id": 6,
+                "name": "",
+                "thumb_image": "http://127.0.0.1:8000/storage/16733/conversions/6-thumb.jpg",
+                "category_name": "Sunt quidem ipsa assumenda aut sapiente suscipit. Dolore commodi occaecati nesciunt. Numquam fugit aperiam vero aut nesciunt quia doloremque. Laudantium quasi sed minus eaque voluptatibus quia omnis.",
+                "price": 36773.08,
+                "discount_price": null,
+                "currency_symbol": "€",
+                "rating": 3.92
+            },
+            {
+                "id": 5,
+                "name": "",
+                "thumb_image": "http://127.0.0.1:8000/storage/16731/conversions/5-thumb.jpg",
+                "category_name": "Iusto illum adipisci excepturi nihil ut. Laboriosam nesciunt fugit libero iste ut eos. Sint accusantium accusantium numquam. Voluptas cupiditate autem omnis molestiae labore est.",
+                "price": 3529.01,
+                "discount_price": null,
+                "currency_symbol": "€",
+                "rating": 4.76
+            },
+            {
+                "id": 6,
+                "name": "",
+                "thumb_image": "http://127.0.0.1:8000/storage/16733/conversions/6-thumb.jpg",
+                "category_name": "Sunt quidem ipsa assumenda aut sapiente suscipit. Dolore commodi occaecati nesciunt. Numquam fugit aperiam vero aut nesciunt quia doloremque. Laudantium quasi sed minus eaque voluptatibus quia omnis.",
+                "price": 36773.08,
+                "discount_price": null,
+                "currency_symbol": "€",
+                "rating": 3.92
+            },
+            {
+                "id": 5,
+                "name": "",
+                "thumb_image": "http://127.0.0.1:8000/storage/16731/conversions/5-thumb.jpg",
+                "category_name": "Iusto illum adipisci excepturi nihil ut. Laboriosam nesciunt fugit libero iste ut eos. Sint accusantium accusantium numquam. Voluptas cupiditate autem omnis molestiae labore est.",
+                "price": 3529.01,
+                "discount_price": null,
+                "currency_symbol": "€",
+                "rating": 4.76
+            },
+            {
+                "id": 6,
+                "name": "",
+                "thumb_image": "http://127.0.0.1:8000/storage/16733/conversions/6-thumb.jpg",
+                "category_name": "Sunt quidem ipsa assumenda aut sapiente suscipit. Dolore commodi occaecati nesciunt. Numquam fugit aperiam vero aut nesciunt quia doloremque. Laudantium quasi sed minus eaque voluptatibus quia omnis.",
+                "price": 36773.08,
+                "discount_price": null,
+                "currency_symbol": "€",
+                "rating": 3.92
             }
         ],
         "first_page_url": "http://127.0.0.1:8000/api/v1/homePageAdverts?page=1",
