@@ -2,8 +2,8 @@
     "success": true,
     "data": {
         "current_page": 2,
-        "data": {
-            "2": {
+        "advert": [
+            {
                 "id": 5,
                 "name": "",
                 "thumb_image": "http://127.0.0.1:8000/storage/16731/conversions/5-thumb.jpg",
@@ -12,7 +12,7 @@
                 "discount_price": null,
                 "currency_symbol": "€"
             },
-            "3": {
+            {
                 "id": 6,
                 "name": "",
                 "thumb_image": "http://127.0.0.1:8000/storage/16733/conversions/6-thumb.jpg",
@@ -21,7 +21,7 @@
                 "discount_price": null,
                 "currency_symbol": "€"
             }
-        },
+        ],
         "first_page_url": "http://127.0.0.1:8000/api/v1/homePageAdverts?page=1",
         "from": 3,
         "last_page": 140327,
