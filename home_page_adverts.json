@@ -21,7 +21,7 @@
                 "discount_price": null,
                 "currency_symbol": "€"
             }
-        ],
+        ]
         "first_page_url": "http://127.0.0.1:8000/api/v1/homePageAdverts?page=1",
         "from": 3,
         "last_page": 140327,
