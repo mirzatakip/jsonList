@@ -2,7 +2,7 @@
     "success": true,
     "data": {
         "current_page": 2,
-        "advert": [
+        "adverts": [
             {
                 "id": 5,
                 "name": "",
