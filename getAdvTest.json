@@ -1,0 +1,777 @@
+{
+    "success": true,
+    "data": {
+        "adverts": [
+            {
+                "id": 553,
+                "name": "Kürşat Kaya",
+                "url": "http://78.135.83.129/api/v1/adverts/553",
+                "sub_category": "Kategori Yok",
+                "category": "Kategori Yok",
+                "price": 15000,
+                "discount_price": null,
+                "currency": "Para Birimi Yok",
+                "currency_symbol": "Para Birimi Yok",
+                "medias": [
+                    {
+                        "original_url": "http://78.135.83.129/storage/2084/indir-(3).jpeg",
+                        "icon_url": "http://78.135.83.129/storage/2084/1.jpg",
+                        "thumb_url": "http://78.135.83.129/storage/2084/conversions/indir-(3)-thumb.jpg"
+                    }
+                ],
+                "seller_name": "Kürşat",
+                "seller_mail": "kayakursattt@gmail.com",
+                "seller_phone": "+905319117800",
+                "created_at": "2023-01-30 05:01:00",
+                "updated_at": "2023-01-30 05:01:00",
+                "bargain": true,
+                "product_status": "Belirtilmemiş",
+                "has_ads": true,
+                "ad_types": [
+                    "homepage",
+                    "showcase"
+                ],
+                "description_summary": " ",
+                "description": "<p>Mükemmel Bir Bilgisayar</p>",
+                "reviews": [
+                    {
+                        "id": 6,
+                        "review": "5",
+                        "rate": 5,
+                        "advert_id": 553,
+                        "user_id": 293,
+                        "created_at": "2023-01-30 05:01:51",
+                        "updated_at": "2023-01-30 05:01:51"
+                    },
+                    {
+                        "id": 9,
+                        "review": "yorum yok",
+                        "rate": 4,
+                        "advert_id": 553,
+                        "user_id": 314,
+                        "created_at": "2023-02-03 11:02:23",
+                        "updated_at": "2023-02-04 09:02:52"
+                    }
+                ]
+            },
+            {
+                "id": 555,
+                "name": "deneme",
+                "url": "http://78.135.83.129/api/v1/adverts/555",
+                "sub_category": "Kategori Yok",
+                "category": "Kategori Yok",
+                "price": 15,
+                "discount_price": null,
+                "currency": "FRANK",
+                "currency_symbol": "Para Birimi Yok",
+                "medias": [
+                    {
+                        "original_url": "http://78.135.83.129/storage/2101/dolar.png",
+                        "icon_url": "http://78.135.83.129/storage/2101/conversions/dolar-icon.jpg",
+                        "thumb_url": "http://78.135.83.129/storage/2101/conversions/dolar-thumb.jpg"
+                    }
+                ],
+                "seller_name": "Mirza",
+                "seller_mail": "mirzatakip@gmail.com",
+                "seller_phone": "+905319117800",
+                "created_at": "2023-01-30 09:01:45",
+                "updated_at": "2023-01-30 09:01:45",
+                "bargain": true,
+                "product_status": "Belirtilmemiş",
+                "has_ads": true,
+                "ad_types": [
+                    "homepage",
+                    "showcase"
+                ],
+                "description_summary": " ",
+                "description": "<p>de</p>",
+                "reviews": []
+            },
+            {
+                "id": 556,
+                "name": "deneme",
+                "url": "http://78.135.83.129/api/v1/adverts/556",
+                "sub_category": "Kategori Yok",
+                "category": "Kategori Yok",
+                "price": 15,
+                "discount_price": null,
+                "currency": "FRANK",
+                "currency_symbol": "Para Birimi Yok",
+                "medias": [
+                    {
+                        "original_url": "http://78.135.83.129/storage/2102/dolar.png",
+                        "icon_url": "http://78.135.83.129/storage/2102/3.jpg",
+                        "thumb_url": "http://78.135.83.129/storage/2102/conversions/dolar-thumb.jpg"
+                    }
+                ],
+                "seller_name": "Mirza",
+                "seller_mail": "mirzatakip@gmail.com",
+                "seller_phone": "+905319117800",
+                "created_at": "2023-01-30 09:01:52",
+                "updated_at": "2023-01-30 09:01:52",
+                "bargain": true,
+                "product_status": "Belirtilmemiş",
+                "has_ads": true,
+                "ad_types": [
+                    "homepage",
+                    "showcase"
+                ],
+                "description_summary": " ",
+                "description": "<p>de</p>",
+                "reviews": []
+            },
+            {
+                "id": 557,
+                "name": "deneme",
+                "url": "http://78.135.83.129/api/v1/adverts/557",
+                "sub_category": "Kategori Yok",
+                "category": "Kategori Yok",
+                "price": 15,
+                "discount_price": null,
+                "currency": "FRANK",
+                "currency_symbol": "Para Birimi Yok",
+                "medias": [
+                    {
+                        "original_url": "http://78.135.83.129/storage/2103/dolar.png",
+                        "icon_url": "http://78.135.83.129/storage/2103/4.jpg",
+                        "thumb_url": "http://78.135.83.129/storage/2103/conversions/dolar-thumb.jpg"
+                    }
+                ],
+                "seller_name": "Mirza",
+                "seller_mail": "mirzatakip@gmail.com",
+                "seller_phone": "+905319117800",
+                "created_at": "2023-01-30 09:01:59",
+                "updated_at": "2023-01-30 09:01:59",
+                "bargain": true,
+                "product_status": "Belirtilmemiş",
+                "has_ads": true,
+                "ad_types": [
+                    "homepage",
+                    "showcase"
+                ],
+                "description_summary": " ",
+                "description": "<p>de</p>",
+                "reviews": []
+            },
+            {
+                "id": 558,
+                "name": "deneme",
+                "url": "http://78.135.83.129/api/v1/adverts/558",
+                "sub_category": "Kategori Yok",
+                "category": "Kategori Yok",
+                "price": 15,
+                "discount_price": null,
+                "currency": "FRANK",
+                "currency_symbol": "Para Birimi Yok",
+                "medias": [
+                    {
+                        "original_url": "http://78.135.83.129/storage/2104/dolar.png",
+                        "icon_url": "http://78.135.83.129/storage/2104/5.jpg",
+                        "thumb_url": "http://78.135.83.129/storage/2104/conversions/dolar-thumb.jpg"
+                    }
+                ],
+                "seller_name": "Mirza",
+                "seller_mail": "mirzatakip@gmail.com",
+                "seller_phone": "+905319117800",
+                "created_at": "2023-01-30 09:01:00",
+                "updated_at": "2023-01-30 09:01:00",
+                "bargain": true,
+                "product_status": "Belirtilmemiş",
+                "has_ads": true,
+                "ad_types": [
+                    "homepage",
+                    "showcase"
+                ],
+                "description_summary": " ",
+                "description": "<p>de</p>",
+                "reviews": []
+            },
+            {
+                "id": 559,
+                "name": "deneme",
+                "url": "http://78.135.83.129/api/v1/adverts/559",
+                "sub_category": "Kategori Yok",
+                "category": "Kategori Yok",
+                "price": 15,
+                "discount_price": null,
+                "currency": "FRANK",
+                "currency_symbol": "Para Birimi Yok",
+                "medias": [
+                    {
+                        "original_url": "http://78.135.83.129/storage/2105/dolar.png",
+                        "icon_url": "http://78.135.83.129/storage/2105/conversions/dolar-icon.jpg",
+                        "thumb_url": "http://78.135.83.129/storage/2105/conversions/dolar-thumb.jpg"
+                    }
+                ],
+                "seller_name": "Mirza",
+                "seller_mail": "mirzatakip@gmail.com",
+                "seller_phone": "+905319117800",
+                "created_at": "2023-01-30 09:01:00",
+                "updated_at": "2023-01-30 09:01:00",
+                "bargain": true,
+                "product_status": "Belirtilmemiş",
+                "has_ads": true,
+                "ad_types": [
+                    "homepage",
+                    "showcase"
+                ],
+                "description_summary": " ",
+                "description": "<p>de</p>",
+                "reviews": []
+            },
+            {
+                "id": 560,
+                "name": "deneme",
+                "url": "http://78.135.83.129/api/v1/adverts/560",
+                "sub_category": "Kategori Yok",
+                "category": "Kategori Yok",
+                "price": 15,
+                "discount_price": null,
+                "currency": "FRANK",
+                "currency_symbol": "Para Birimi Yok",
+                "medias": [
+                    {
+                        "original_url": "http://78.135.83.129/storage/2106/dolar.png",
+                        "icon_url": "http://78.135.83.129/storage/2106/conversions/dolar-icon.jpg",
+                        "thumb_url": "http://78.135.83.129/storage/2106/conversions/dolar-thumb.jpg"
+                    }
+                ],
+                "seller_name": "Mirza",
+                "seller_mail": "mirzatakip@gmail.com",
+                "seller_phone": "+905319117800",
+                "created_at": "2023-01-30 09:01:00",
+                "updated_at": "2023-01-30 09:01:00",
+                "bargain": true,
+                "product_status": "Belirtilmemiş",
+                "has_ads": true,
+                "ad_types": [
+                    "homepage",
+                    "showcase"
+                ],
+                "description_summary": " ",
+                "description": "<p>de</p>",
+                "reviews": []
+            },
+            {
+                "id": 561,
+                "name": "deneme",
+                "url": "http://78.135.83.129/api/v1/adverts/561",
+                "sub_category": "Kategori Yok",
+                "category": "Kategori Yok",
+                "price": 15,
+                "discount_price": null,
+                "currency": "FRANK",
+                "currency_symbol": "Para Birimi Yok",
+                "medias": [
+                    {
+                        "original_url": "http://78.135.83.129/storage/2107/dolar.png",
+                        "icon_url": "http://78.135.83.129/storage/2107/conversions/dolar-icon.jpg",
+                        "thumb_url": "http://78.135.83.129/storage/2107/conversions/dolar-thumb.jpg"
+                    }
+                ],
+                "seller_name": "Mirza",
+                "seller_mail": "mirzatakip@gmail.com",
+                "seller_phone": "+905319117800",
+                "created_at": "2023-01-30 09:01:00",
+                "updated_at": "2023-01-30 09:01:00",
+                "bargain": true,
+                "product_status": "Belirtilmemiş",
+                "has_ads": true,
+                "ad_types": [
+                    "homepage",
+                    "showcase"
+                ],
+                "description_summary": " ",
+                "description": "<p>de</p>",
+                "reviews": []
+            },
+            {
+                "id": 562,
+                "name": "deneme",
+                "url": "http://78.135.83.129/api/v1/adverts/562",
+                "sub_category": "Kategori Yok",
+                "category": "Kategori Yok",
+                "price": 15,
+                "discount_price": null,
+                "currency": "FRANK",
+                "currency_symbol": "Para Birimi Yok",
+                "medias": [
+                    {
+                        "original_url": "http://78.135.83.129/storage/2108/dolar.png",
+                        "icon_url": "http://78.135.83.129/storage/2108/conversions/dolar-icon.jpg",
+                        "thumb_url": "http://78.135.83.129/storage/2108/conversions/dolar-thumb.jpg"
+                    }
+                ],
+                "seller_name": "Mirza",
+                "seller_mail": "mirzatakip@gmail.com",
+                "seller_phone": "+905319117800",
+                "created_at": "2023-01-30 09:01:00",
+                "updated_at": "2023-01-30 09:01:00",
+                "bargain": true,
+                "product_status": "Belirtilmemiş",
+                "has_ads": true,
+                "ad_types": [
+                    "homepage",
+                    "showcase"
+                ],
+                "description_summary": " ",
+                "description": "<p>de</p>",
+                "reviews": []
+            },
+            {
+                "id": 563,
+                "name": "deneme",
+                "url": "http://78.135.83.129/api/v1/adverts/563",
+                "sub_category": "Kategori Yok",
+                "category": "Kategori Yok",
+                "price": 15,
+                "discount_price": null,
+                "currency": "FRANK",
+                "currency_symbol": "Para Birimi Yok",
+                "medias": [
+                    {
+                        "original_url": "http://78.135.83.129/storage/2109/dolar.png",
+                        "icon_url": "http://78.135.83.129/storage/2109/conversions/dolar-icon.jpg",
+                        "thumb_url": "http://78.135.83.129/storage/2109/conversions/dolar-thumb.jpg"
+                    }
+                ],
+                "seller_name": "Mirza",
+                "seller_mail": "mirzatakip@gmail.com",
+                "seller_phone": "+905319117800",
+                "created_at": "2023-01-30 09:01:00",
+                "updated_at": "2023-01-30 09:01:00",
+                "bargain": true,
+                "product_status": "Belirtilmemiş",
+                "has_ads": true,
+                "ad_types": [
+                    "homepage",
+                    "showcase"
+                ],
+                "description_summary": " ",
+                "description": "<p>de</p>",
+                "reviews": []
+            },
+            {
+                "id": 564,
+                "name": "deneme",
+                "url": "http://78.135.83.129/api/v1/adverts/564",
+                "sub_category": "Kategori Yok",
+                "category": "Kategori Yok",
+                "price": 15,
+                "discount_price": null,
+                "currency": "FRANK",
+                "currency_symbol": "Para Birimi Yok",
+                "medias": [
+                    {
+                        "original_url": "http://78.135.83.129/storage/2110/dolar.png",
+                        "icon_url": "http://78.135.83.129/storage/2110/conversions/dolar-icon.jpg",
+                        "thumb_url": "http://78.135.83.129/storage/2110/conversions/dolar-thumb.jpg"
+                    }
+                ],
+                "seller_name": "Mirza",
+                "seller_mail": "mirzatakip@gmail.com",
+                "seller_phone": "+905319117800",
+                "created_at": "2023-01-30 09:01:00",
+                "updated_at": "2023-01-30 09:01:00",
+                "bargain": true,
+                "product_status": "Belirtilmemiş",
+                "has_ads": true,
+                "ad_types": [
+                    "homepage",
+                    "showcase"
+                ],
+                "description_summary": " ",
+                "description": "<p>de</p>",
+                "reviews": []
+            },
+            {
+                "id": 565,
+                "name": "deneme",
+                "url": "http://78.135.83.129/api/v1/adverts/565",
+                "sub_category": "Kategori Yok",
+                "category": "Kategori Yok",
+                "price": 15,
+                "discount_price": null,
+                "currency": "FRANK",
+                "currency_symbol": "Para Birimi Yok",
+                "medias": [
+                    {
+                        "original_url": "http://78.135.83.129/storage/2111/dolar.png",
+                        "icon_url": "http://78.135.83.129/storage/2111/conversions/dolar-icon.jpg",
+                        "thumb_url": "http://78.135.83.129/storage/2111/conversions/dolar-thumb.jpg"
+                    }
+                ],
+                "seller_name": "Mirza",
+                "seller_mail": "mirzatakip@gmail.com",
+                "seller_phone": "+905319117800",
+                "created_at": "2023-01-30 09:01:01",
+                "updated_at": "2023-01-30 09:01:01",
+                "bargain": true,
+                "product_status": "Belirtilmemiş",
+                "has_ads": true,
+                "ad_types": [
+                    "homepage",
+                    "showcase"
+                ],
+                "description_summary": " ",
+                "description": "<p>de</p>",
+                "reviews": []
+            },
+            {
+                "id": 566,
+                "name": "deneme",
+                "url": "http://78.135.83.129/api/v1/adverts/566",
+                "sub_category": "Kategori Yok",
+                "category": "Kategori Yok",
+                "price": 15,
+                "discount_price": null,
+                "currency": "FRANK",
+                "currency_symbol": "Para Birimi Yok",
+                "medias": [
+                    {
+                        "original_url": "http://78.135.83.129/storage/2112/dolar.png",
+                        "icon_url": "http://78.135.83.129/storage/2112/conversions/dolar-icon.jpg",
+                        "thumb_url": "http://78.135.83.129/storage/2112/conversions/dolar-thumb.jpg"
+                    }
+                ],
+                "seller_name": "Mirza",
+                "seller_mail": "mirzatakip@gmail.com",
+                "seller_phone": "+905319117800",
+                "created_at": "2023-01-30 09:01:01",
+                "updated_at": "2023-01-30 09:01:01",
+                "bargain": true,
+                "product_status": "Belirtilmemiş",
+                "has_ads": true,
+                "ad_types": [
+                    "homepage",
+                    "showcase"
+                ],
+                "description_summary": " ",
+                "description": "<p>de</p>",
+                "reviews": []
+            },
+            {
+                "id": 567,
+                "name": "deneme",
+                "url": "http://78.135.83.129/api/v1/adverts/567",
+                "sub_category": "Kategori Yok",
+                "category": "Kategori Yok",
+                "price": 15,
+                "discount_price": null,
+                "currency": "FRANK",
+                "currency_symbol": "Para Birimi Yok",
+                "medias": [
+                    {
+                        "original_url": "http://78.135.83.129/storage/2113/dolar.png",
+                        "icon_url": "http://78.135.83.129/storage/2113/conversions/dolar-icon.jpg",
+                        "thumb_url": "http://78.135.83.129/storage/2113/conversions/dolar-thumb.jpg"
+                    }
+                ],
+                "seller_name": "Mirza",
+                "seller_mail": "mirzatakip@gmail.com",
+                "seller_phone": "+905319117800",
+                "created_at": "2023-01-30 09:01:02",
+                "updated_at": "2023-01-30 09:01:02",
+                "bargain": true,
+                "product_status": "Belirtilmemiş",
+                "has_ads": true,
+                "ad_types": [
+                    "homepage",
+                    "showcase"
+                ],
+                "description_summary": " ",
+                "description": "<p>de</p>",
+                "reviews": []
+            },
+            {
+                "id": 568,
+                "name": "deneme",
+                "url": "http://78.135.83.129/api/v1/adverts/568",
+                "sub_category": "Kategori Yok",
+                "category": "Kategori Yok",
+                "price": 15,
+                "discount_price": null,
+                "currency": "FRANK",
+                "currency_symbol": "Para Birimi Yok",
+                "medias": [
+                    {
+                        "original_url": "http://78.135.83.129/storage/2114/dolar.png",
+                        "icon_url": "http://78.135.83.129/storage/2114/conversions/dolar-icon.jpg",
+                        "thumb_url": "http://78.135.83.129/storage/2114/conversions/dolar-thumb.jpg"
+                    }
+                ],
+                "seller_name": "Mirza",
+                "seller_mail": "mirzatakip@gmail.com",
+                "seller_phone": "+905319117800",
+                "created_at": "2023-01-30 09:01:11",
+                "updated_at": "2023-01-30 09:01:11",
+                "bargain": true,
+                "product_status": "Belirtilmemiş",
+                "has_ads": true,
+                "ad_types": [
+                    "homepage",
+                    "showcase"
+                ],
+                "description_summary": " ",
+                "description": "<p>dededeadeadaeda</p>",
+                "reviews": []
+            },
+            {
+                "id": 569,
+                "name": "deneme",
+                "url": "http://78.135.83.129/api/v1/adverts/569",
+                "sub_category": "Kategori Yok",
+                "category": "Kategori Yok",
+                "price": 15,
+                "discount_price": null,
+                "currency": "FRANK",
+                "currency_symbol": "Para Birimi Yok",
+                "medias": [
+                    {
+                        "original_url": "http://78.135.83.129/storage/2115/dolar.png",
+                        "icon_url": "http://78.135.83.129/storage/2115/conversions/dolar-icon.jpg",
+                        "thumb_url": "http://78.135.83.129/storage/2115/conversions/dolar-thumb.jpg"
+                    }
+                ],
+                "seller_name": "Mirza",
+                "seller_mail": "mirzatakip@gmail.com",
+                "seller_phone": "+905319117800",
+                "created_at": "2023-01-30 09:01:11",
+                "updated_at": "2023-01-30 09:01:11",
+                "bargain": true,
+                "product_status": "Belirtilmemiş",
+                "has_ads": true,
+                "ad_types": [
+                    "homepage",
+                    "showcase"
+                ],
+                "description_summary": " ",
+                "description": "<p>dededeadeadaeda</p>",
+                "reviews": []
+            },
+            {
+                "id": 570,
+                "name": "deneme",
+                "url": "http://78.135.83.129/api/v1/adverts/570",
+                "sub_category": "Kategori Yok",
+                "category": "Kategori Yok",
+                "price": 15,
+                "discount_price": null,
+                "currency": "FRANK",
+                "currency_symbol": "Para Birimi Yok",
+                "medias": [
+                    {
+                        "original_url": "http://78.135.83.129/storage/2116/dolar.png",
+                        "icon_url": "http://78.135.83.129/storage/2116/conversions/dolar-icon.jpg",
+                        "thumb_url": "http://78.135.83.129/storage/2116/conversions/dolar-thumb.jpg"
+                    }
+                ],
+                "seller_name": "Mirza",
+                "seller_mail": "mirzatakip@gmail.com",
+                "seller_phone": "+905319117800",
+                "created_at": "2023-01-30 09:01:11",
+                "updated_at": "2023-01-30 09:01:11",
+                "bargain": true,
+                "product_status": "Belirtilmemiş",
+                "has_ads": true,
+                "ad_types": [
+                    "homepage",
+                    "showcase"
+                ],
+                "description_summary": " ",
+                "description": "<p>dededeadeadaeda</p>",
+                "reviews": []
+            },
+            {
+                "id": 571,
+                "name": "deneme",
+                "url": "http://78.135.83.129/api/v1/adverts/571",
+                "sub_category": "Kategori Yok",
+                "category": "Kategori Yok",
+                "price": 15,
+                "discount_price": null,
+                "currency": "FRANK",
+                "currency_symbol": "Para Birimi Yok",
+                "medias": [
+                    {
+                        "original_url": "http://78.135.83.129/storage/2117/dolar.png",
+                        "icon_url": "http://78.135.83.129/storage/2117/conversions/dolar-icon.jpg",
+                        "thumb_url": "http://78.135.83.129/storage/2117/conversions/dolar-thumb.jpg"
+                    }
+                ],
+                "seller_name": "Mirza",
+                "seller_mail": "mirzatakip@gmail.com",
+                "seller_phone": "+905319117800",
+                "created_at": "2023-01-30 09:01:11",
+                "updated_at": "2023-01-30 09:01:11",
+                "bargain": true,
+                "product_status": "Belirtilmemiş",
+                "has_ads": true,
+                "ad_types": [
+                    "homepage",
+                    "showcase"
+                ],
+                "description_summary": " ",
+                "description": "<p>dededeadeadaeda</p>",
+                "reviews": []
+            },
+            {
+                "id": 572,
+                "name": "deneme",
+                "url": "http://78.135.83.129/api/v1/adverts/572",
+                "sub_category": "Kategori Yok",
+                "category": "Kategori Yok",
+                "price": 15,
+                "discount_price": null,
+                "currency": "FRANK",
+                "currency_symbol": "Para Birimi Yok",
+                "medias": [
+                    {
+                        "original_url": "http://78.135.83.129/storage/2118/dolar.png",
+                        "icon_url": "http://78.135.83.129/storage/2118/conversions/dolar-icon.jpg",
+                        "thumb_url": "http://78.135.83.129/storage/2118/conversions/dolar-thumb.jpg"
+                    }
+                ],
+                "seller_name": "Mirza",
+                "seller_mail": "mirzatakip@gmail.com",
+                "seller_phone": "+905319117800",
+                "created_at": "2023-01-30 09:01:11",
+                "updated_at": "2023-01-30 09:01:11",
+                "bargain": true,
+                "product_status": "Belirtilmemiş",
+                "has_ads": true,
+                "ad_types": [
+                    "homepage",
+                    "showcase"
+                ],
+                "description_summary": " ",
+                "description": "<p>dededeadeadaeda</p>",
+                "reviews": []
+            },
+            {
+                "id": 573,
+                "name": "deneme",
+                "url": "http://78.135.83.129/api/v1/adverts/573",
+                "sub_category": "Kategori Yok",
+                "category": "Kategori Yok",
+                "price": 15,
+                "discount_price": null,
+                "currency": "FRANK",
+                "currency_symbol": "Para Birimi Yok",
+                "medias": [
+                    {
+                        "original_url": "http://78.135.83.129/storage/2119/dolar.png",
+                        "icon_url": "http://78.135.83.129/storage/2119/conversions/dolar-icon.jpg",
+                        "thumb_url": "http://78.135.83.129/storage/2119/conversions/dolar-thumb.jpg"
+                    }
+                ],
+                "seller_name": "Mirza",
+                "seller_mail": "mirzatakip@gmail.com",
+                "seller_phone": "+905319117800",
+                "created_at": "2023-01-30 09:01:12",
+                "updated_at": "2023-01-30 09:01:12",
+                "bargain": true,
+                "product_status": "Belirtilmemiş",
+                "has_ads": true,
+                "ad_types": [
+                    "homepage",
+                    "showcase"
+                ],
+                "description_summary": " ",
+                "description": "<p>dededeadeadaeda</p>",
+                "reviews": []
+            }
+        ],
+        "total": 242,
+        "next_page_url": "http://78.135.83.129/api/v1/mobileAdverts?show_per_page=20&page=2",
+        "current_page": 1,
+        "first_page_url": "http://78.135.83.129/api/v1/mobileAdverts?show_per_page=20&page=1",
+        "last_page": 13,
+        "last_page_url": "http://78.135.83.129/api/v1/mobileAdverts?show_per_page=20&page=13",
+        "links": [
+            {
+                "url": null,
+                "label": "&laquo; Geri",
+                "active": false
+            },
+            {
+                "url": "http://78.135.83.129/api/v1/mobileAdverts?show_per_page=20&page=1",
+                "label": "1",
+                "active": true
+            },
+            {
+                "url": "http://78.135.83.129/api/v1/mobileAdverts?show_per_page=20&page=2",
+                "label": "2",
+                "active": false
+            },
+            {
+                "url": "http://78.135.83.129/api/v1/mobileAdverts?show_per_page=20&page=3",
+                "label": "3",
+                "active": false
+            },
+            {
+                "url": "http://78.135.83.129/api/v1/mobileAdverts?show_per_page=20&page=4",
+                "label": "4",
+                "active": false
+            },
+            {
+                "url": "http://78.135.83.129/api/v1/mobileAdverts?show_per_page=20&page=5",
+                "label": "5",
+                "active": false
+            },
+            {
+                "url": "http://78.135.83.129/api/v1/mobileAdverts?show_per_page=20&page=6",
+                "label": "6",
+                "active": false
+            },
+            {
+                "url": "http://78.135.83.129/api/v1/mobileAdverts?show_per_page=20&page=7",
+                "label": "7",
+                "active": false
+            },
+            {
+                "url": "http://78.135.83.129/api/v1/mobileAdverts?show_per_page=20&page=8",
+                "label": "8",
+                "active": false
+            },
+            {
+                "url": "http://78.135.83.129/api/v1/mobileAdverts?show_per_page=20&page=9",
+                "label": "9",
+                "active": false
+            },
+            {
+                "url": "http://78.135.83.129/api/v1/mobileAdverts?show_per_page=20&page=10",
+                "label": "10",
+                "active": false
+            },
+            {
+                "url": "http://78.135.83.129/api/v1/mobileAdverts?show_per_page=20&page=11",
+                "label": "11",
+                "active": false
+            },
+            {
+                "url": "http://78.135.83.129/api/v1/mobileAdverts?show_per_page=20&page=12",
+                "label": "12",
+                "active": false
+            },
+            {
+                "url": "http://78.135.83.129/api/v1/mobileAdverts?show_per_page=20&page=13",
+                "label": "13",
+                "active": false
+            },
+            {
+                "url": "http://78.135.83.129/api/v1/mobileAdverts?show_per_page=20&page=2",
+                "label": "İleri &raquo;",
+                "active": false
+            }
+        ],
+        "to": 20,
+        "prev_page_url": null,
+        "per_page": 20,
+        "path": "http://78.135.83.129/api/v1/mobileAdverts"
+    },
+    "message": "İlanlar başarıyla alındı.",
+    "meta": {
+        "locale": "tr"
+    }
+}
