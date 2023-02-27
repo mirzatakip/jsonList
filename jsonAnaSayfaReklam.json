@@ -1,4 +1,5 @@
 {
+    "success": true,
     "urunler": [
         {
             "id": 1,
@@ -21,6 +22,5 @@
             "fiyat": "20.00",
             "resim": "https://lh3.googleusercontent.com/pw/AL9nZEXPUhN5RhdreXRJY0HalNb2ScaEW0YHVsd6qyRAXaE1qeGzYquExIlAhR02BBLxD9CUOHvGh44HgNp1Ahxg_m7wQvaNoO6cfC7CTfX_o-4JFpPxafPEBTkUrfudgwaAMfzycf4hTMVZhqpLkRQssmD7"
         }
-    ],
-    "success": true
+    ]
 }
