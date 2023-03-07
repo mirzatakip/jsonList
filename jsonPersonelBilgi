@@ -1,0 +1,53 @@
+{
+    "success": true,
+    "urunler": [
+        {
+            "id": 1,
+            "isim": "İsmail Çulha",
+            "kategori": "Director",
+            "resim": "https://e7.pngegg.com/pngimages/799/987/png-clipart-computer-icons-avatar-icon-design-avatar-heroes-computer-wallpaper-thumbnail.png"
+        },
+        {
+            "id": 2,
+            "isim": "Kürşat Kaya",
+            "kategori": "Vr",
+            "resim": "https://e7.pngegg.com/pngimages/799/987/png-clipart-computer-icons-avatar-icon-design-avatar-heroes-computer-wallpaper-thumbnail.png"
+        },
+        {
+            "id": 3,
+            "isim": "Cem Taşçılar",
+            "kategori": "Mobile",
+            "resim": "https://e7.pngegg.com/pngimages/799/987/png-clipart-computer-icons-avatar-icon-design-avatar-heroes-computer-wallpaper-thumbnail.png"
+        },
+        {
+            "id": 4,
+            "isim": "Ferjat Bolat",
+            "kategori": "Backend",
+            "resim": "https://e7.pngegg.com/pngimages/799/987/png-clipart-computer-icons-avatar-icon-design-avatar-heroes-computer-wallpaper-thumbnail.png"
+        },
+        {
+            "id": 5,
+            "isim": "İsmail Kalaycıoğlu",
+            "kategori": "Backend",
+            "resim": "https://e7.pngegg.com/pngimages/799/987/png-clipart-computer-icons-avatar-icon-design-avatar-heroes-computer-wallpaper-thumbnail.png"
+        },
+        {
+            "id": 6,
+            "isim": "Melek Karabulut",
+            "kategori": "Vr",
+            "resim": "https://e7.pngegg.com/pngimages/799/987/png-clipart-computer-icons-avatar-icon-design-avatar-heroes-computer-wallpaper-thumbnail.png"
+        },
+        {
+            "id": 7,
+            "isim": "Test Testa",
+            "kategori": "Stack",
+            "resim": "https://e7.pngegg.com/pngimages/799/987/png-clipart-computer-icons-avatar-icon-design-avatar-heroes-computer-wallpaper-thumbnail.png"
+        },
+        {
+            "id": 8,
+            "isim": "John Wick",
+            "kategori": "Ortacı",
+            "resim": "https://e7.pngegg.com/pngimages/799/987/png-clipart-computer-icons-avatar-icon-design-avatar-heroes-computer-wallpaper-thumbnail.png"
+        }
+    ]
+}
