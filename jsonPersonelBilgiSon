@@ -1,0 +1,69 @@
+{
+    "success": true,
+    "personeller": [
+        {
+            "id": 1,
+            "isim": "İsmail Çulha",
+            "kategori": "Director",
+            "yas": "32",
+            "sinif": "Sgk",
+            "resim": "https://e7.pngegg.com/pngimages/799/987/png-clipart-computer-icons-avatar-icon-design-avatar-heroes-computer-wallpaper-thumbnail.png"
+        },
+        {
+            "id": 2,
+            "isim": "Kürşat Kaya",
+            "kategori": "Vr",
+            "yas": "23",
+            "sinif": "Sgk",
+            "resim": "https://e7.pngegg.com/pngimages/799/987/png-clipart-computer-icons-avatar-icon-design-avatar-heroes-computer-wallpaper-thumbnail.png"
+        },
+        {
+            "id": 3,
+            "isim": "Cem Taşçılar",
+            "kategori": "Mobile",
+            "yas": "39",
+            "sinif": "İşkur",
+            "resim": "https://e7.pngegg.com/pngimages/799/987/png-clipart-computer-icons-avatar-icon-design-avatar-heroes-computer-wallpaper-thumbnail.png"
+        },
+        {
+            "id": 4,
+            "isim": "Ferjat Bolat",
+            "kategori": "Backend",
+            "yas": "30",
+            "sinif": "Sgk",
+            "resim": "https://e7.pngegg.com/pngimages/799/987/png-clipart-computer-icons-avatar-icon-design-avatar-heroes-computer-wallpaper-thumbnail.png"
+        },
+        {
+            "id": 5,
+            "isim": "İsmail Kalaycıoğlu",
+            "kategori": "Backend",
+            "yas": "35",
+            "sinif": "İşkur",
+            "resim": "https://e7.pngegg.com/pngimages/799/987/png-clipart-computer-icons-avatar-icon-design-avatar-heroes-computer-wallpaper-thumbnail.png"
+        },
+        {
+            "id": 6,
+            "isim": "Melek Karabulut",
+            "kategori": "Vr",
+            "yas": "25",
+            "sinif": "İşkur",
+            "resim": "https://e7.pngegg.com/pngimages/799/987/png-clipart-computer-icons-avatar-icon-design-avatar-heroes-computer-wallpaper-thumbnail.png"
+        },
+        {
+            "id": 7,
+            "isim": "Test Testa",
+            "kategori": "Stack",
+            "yas": "45",
+            "sinif": "Sgk",
+            "resim": "https://e7.pngegg.com/pngimages/799/987/png-clipart-computer-icons-avatar-icon-design-avatar-heroes-computer-wallpaper-thumbnail.png"
+        },
+        {
+            "id": 8,
+            "isim": "John Wick",
+            "kategori": "Ortacı",
+            "yas": "29",
+            "sinif": İşkur",
+            "resim": "https://e7.pngegg.com/pngimages/799/987/png-clipart-computer-icons-avatar-icon-design-avatar-heroes-computer-wallpaper-thumbnail.png"
+        }
+    ]
+}
